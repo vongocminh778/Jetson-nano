@@ -169,8 +169,5 @@
   ```
   
    10- Installing Docker Compose on Jetson Nano
-  ```
   [Run Docker]: <https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson>
-  
-  ```
   - ¯\\\_(ツ)\_/¯
