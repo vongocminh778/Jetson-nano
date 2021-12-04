@@ -168,6 +168,7 @@
   $ sudo reboot
   ```
   
-   10- Installing Docker Compose on Jetson Nano
+   10- Installing Docker Compose on Jetson Nano [Run Docker]
+   
   [Run Docker]: <https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson>
   - ¯\\\_(ツ)\_/¯
