@@ -170,6 +170,7 @@
   
    10- Installing Docker Compose on Jetson Nano
   ```
-  https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson
+  [Run Docker]: <https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson>
+  
   ```
   - ¯\\\_(ツ)\_/¯
