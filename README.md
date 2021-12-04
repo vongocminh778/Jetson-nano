@@ -167,4 +167,16 @@
   ```sh
   $ sudo reboot
   ```
+  
+   10- Installing Docker Compose on Jetson Nano
+  ```sh
+  $ export DOCKER_COMPOSE_VERSION=1.27.4
+  $ sudo apt-get install libhdf5-dev
+  $ sudo apt-get install libssl-dev
+  $ apt install python3
+  $ apt install python3-pip
+  $ sudo pip3 install docker-compose=="${DOCKER_COMPOSE_VERSION}"
+  $ pip install docker-compose
+  $ docker-compose version 
+  ```
   - ¯\\\_(ツ)\_/¯
