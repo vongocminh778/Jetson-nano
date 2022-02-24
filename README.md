@@ -172,3 +172,8 @@
    
   [Run Docker]: <https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson>
   - ¯\\\_(ツ)\_/¯
+
+  11- Cấp quyền cho folder
+  ```sh
+  $ sudo chmod -R 757 /home/mic/....
+  ```
